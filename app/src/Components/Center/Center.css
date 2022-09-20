@@ -1,0 +1,37 @@
+#center{
+    display: inline-block;
+   
+}
+
+#pro{
+    background-color: rgb(241, 237, 245);
+    width: 400px;
+    margin-left: 40px;
+    margin-top: 40px;
+    border-radius: 10px;
+   
+}
+#im{
+    height: 200px;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+#pdt{
+    text-align: center;
+    margin-top: -5px;
+    font-weight: bold;
+}
+#price{
+    text-align: center;
+    margin-top: -5px;
+    font-weight: bold;
+}
+
+#btn1{
+   
+    margin-left: 180px;
+   margin-bottom: 5px;
+   color: green;
+
+}

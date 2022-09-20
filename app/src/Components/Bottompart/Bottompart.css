@@ -1,0 +1,42 @@
+#dd1{
+    width: 150px;
+    margin-left: 40px;
+}
+#btm{
+    background-color:chartreuse;
+    margin-top: 70px;
+    height: 200px;
+   
+}
+#p1{
+    margin-left: 10px;
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+#p3{
+    margin-left: 10px;
+}
+#dd2{
+    margin-left: 350px;
+    margin-top: -180px;
+}
+#dd3{
+     margin-left: 550px;
+     margin-top: -180px;
+}
+#dd4{
+    margin-left: 830px;
+    margin-top: -180px;
+}
+#dd6{
+    margin-left: 1300px;
+    margin-top: -180px;
+}
+#footer{
+    text-align: center;
+    background-color: rgb(103, 204, 63); 
+}
+#p11{
+    margin-top: 10px;
+}

@@ -1,0 +1,44 @@
+#center{
+    display: inline-block;
+   
+}
+
+#pro{
+    background-color: rgb(241, 237, 245);
+    width: 400px;
+    margin-left: 40px;
+    margin-top: 40px;
+    border-radius: 10px;
+   
+}
+#im{
+    height: 200px;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+#pdt{
+    text-align: center;
+    margin-top: -5px;
+    font-weight: bold;
+}
+#price{
+    text-align: center;
+    margin-top: -5px;
+    font-weight: bold;
+}
+
+#btn{
+   
+    margin-left: 150px;
+   margin-bottom: 5px;
+   color: green;
+   background-color: rgb(182, 250, 182);
+   border-color: white;
+   border-radius: 5px;
+
+}
+#btn:hover{
+    color: red;
+    background-color: rgb(245, 165, 165);
+}
